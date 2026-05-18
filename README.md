@@ -47,8 +47,8 @@ This is the automated version of the manual A/B-the-traces process every team do
 ## Quick Start
 
 ```bash
-git clone https://github.com/dakshjain-1616/context-time-machine.git
-cd context-time-machine
+git clone https://github.com/dakshjain-1616/ContextTimeMachine.git
+cd ContextTimeMachine
 
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
@@ -240,6 +240,6 @@ MIT
 
 ## Attribution
 
-🤖 **Built with NEO** — Powered by [NEO MCP](https://docs.heyneo.so) for autonomous AI infrastructure development.
+🤖 **Built with NEO** — Powered by [NEO](https://heyneo.com), the autonomous AI engineering agent.
 
 This project was built using NEO's autonomous development capabilities — scaffolding, all core analysis modules, the 58-test suite, and documentation were generated end-to-end by NEO.
