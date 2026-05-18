@@ -5,6 +5,17 @@
 
 ---
 
+## 🤖 Autonomously Built with NEO
+
+**Built entirely by [NEO — Your Autonomous AI Engineering Agent](https://heyneo.com)**
+
+[![Get NEO for VS Code](https://img.shields.io/badge/NEO-VS%20Code-007ACC?style=flat&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)
+[![Get NEO for Cursor](https://img.shields.io/badge/NEO-Cursor-000000?style=flat&logo=cursor)](https://marketplace.cursorapi.com/items/?itemName=NeoResearchInc.heyneo)
+
+NEO is the autonomous AI engineering agent that orchestrates multi-step development tasks, manages complex codebases, and builds production systems end-to-end. [Learn more →](https://heyneo.com)
+
+---
+
 ## The Real Pain Point
 
 Long-running agent sessions fail in a specific, infuriating way:
@@ -224,3 +235,11 @@ Python 3.10+. Core deps: `fastapi`, `uvicorn`, `pydantic`, `click`, `tiktoken`, 
 ## License
 
 MIT
+
+---
+
+## Attribution
+
+🤖 **Built with NEO** — Powered by [NEO MCP](https://docs.heyneo.so) for autonomous AI infrastructure development.
+
+This project was built using NEO's autonomous development capabilities — scaffolding, all core analysis modules, the 58-test suite, and documentation were generated end-to-end by NEO.
